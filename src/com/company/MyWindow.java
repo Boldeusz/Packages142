@@ -26,5 +26,6 @@ public class MyWindow extends Frame {
         g.setFont(sansSerifSmall);
         g.drawString("by Marcin Nienajadlo",60,100);
 
+
     }
 }
